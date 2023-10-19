@@ -27,9 +27,6 @@ The APK file for the Android application is included in the repository, making i
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#) if you want to contribute.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
