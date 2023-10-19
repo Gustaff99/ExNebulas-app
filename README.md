@@ -33,3 +33,42 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 Email: [gustavoponfe@gmail.com](mailto:gustavoponfe@gmail.com)
 
 Project Link: [https://github.com/gustaff99/ExNebulas](https://github.com/gustaff99/ExNebulas)
+
+# ExNebulas
+
+ExNebulas es un rastreador web privado que utiliza la tecnología Searxng para ofrecer una experiencia de navegación segura y anónima. Este proyecto abarca un navegador web capaz de rastrear sitios web a través de múltiples motores de búsqueda, asegurando el anonimato del usuario al no dejar rastros web.
+
+## Características
+
+- **Navegación Anónima**: Navega por la web sin dejar huellas digitales.
+- **Múltiples Motores de Búsqueda**: Agrega resultados de varios motores de búsqueda para obtener los resultados más completos.
+- **Enfocado en la Privacidad**: Desarrollado con la privacidad como prioridad, atendiendo a los usuarios conscientes de su presencia en línea.
+
+## Instancia en Vivo
+
+Estamos alojando una instancia en vivo que refleja la configuración mostrada en este repositorio. Siéntete libre de explorarla y utilizarla para tus necesidades de navegación segura en [exnebulas.com](https://exnebulas.com/).
+
+# Aplicación Android de ExNebulas
+
+¡Hemos extendido la comodidad y privacidad de ExNebulas a tu smartphone! Nuestra aplicación Android funciona como un navegador web sencillo, proporcionando una alternativa viable para aquellos que prefieren no utilizar opciones convencionales como Google Chrome o Firefox.
+
+Accede a la aplicación y los archivos necesarios en este repositorio.
+
+## Instalación
+
+El archivo APK para la aplicación Android está incluido en el repositorio, lo que facilita la instalación. Descarga el archivo en tu dispositivo, y estarás a un toque de una navegación segura y anónima.
+
+## Contribuciones
+
+¡Las contribuciones, problemas y solicitudes de características son bienvenidos! No dudes en consultar la [página de problemas](#) si quieres contribuir.
+
+## Licencia
+
+Distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
+
+## Contacto
+
+Email: [gustavoponfe@gmail.com](mailto:gustavoponfe@gmail.com)
+
+Enlace del Proyecto: [https://github.com/gustaff99/ExNebulas](https://github.com/gustaff99/ExNebulas)
+
